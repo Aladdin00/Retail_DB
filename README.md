@@ -60,12 +60,11 @@ A dimensional model (Star Schema) was implemented.
 
 ## ⚙️ Technologies Used
 
-- SQL Server
 - SQL Server Management Studio (SSMS)
 - SQL
 - Power BI
 - CSV Files
-- Git & GitHub
+- GitHub
 
 ---
 
@@ -182,11 +181,6 @@ The Power BI dashboard includes:
 
 ---
 
-## 📷 Preview
-
-> Dashboard screenshots will be added after the Power BI report is completed.
-
----
 
 ## 👨‍💻 Author
 
